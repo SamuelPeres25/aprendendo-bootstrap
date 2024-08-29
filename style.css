@@ -1,0 +1,9 @@
+.project-img{
+    width: 300px;
+    cursor: pointer;
+}
+
+.project-img:hover{
+    transform: sclae(1.2);
+}
+
